@@ -5,7 +5,9 @@ Its probably a great beginner project to familiarize yourself with the GPIO API.
 
 ## Table of contents
 -Requirements
+
 -Installation
+
 -Execution
 
 ## Requirements
@@ -16,7 +18,7 @@ Esp-idf setup on your system
 
 Clone the repository in the esp-idf folder.
 ```bash
-git -C ~/esp/esp-idf clone
+git -C ~/esp/esp-idf clone https://github.com/arjunnain17/BlinkEsp32
 ```
 
 Build the project using
