@@ -1,0 +1,13 @@
+# Target labels
+ bootloader
+# Source files and their labels
+/home/xanny/esp/esp-idf/GPIO_Example/build/CMakeFiles/bootloader
+/home/xanny/esp/esp-idf/GPIO_Example/build/CMakeFiles/bootloader.rule
+/home/xanny/esp/esp-idf/GPIO_Example/build/CMakeFiles/bootloader-complete.rule
+/home/xanny/esp/esp-idf/GPIO_Example/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule
+/home/xanny/esp/esp-idf/GPIO_Example/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule
+/home/xanny/esp/esp-idf/GPIO_Example/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule
+/home/xanny/esp/esp-idf/GPIO_Example/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule
+/home/xanny/esp/esp-idf/GPIO_Example/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule
+/home/xanny/esp/esp-idf/GPIO_Example/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule
+/home/xanny/esp/esp-idf/GPIO_Example/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule

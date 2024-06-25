@@ -1,0 +1,43 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/home/xanny/esp/esp-idf/GPIO_Example/build/CMakeFiles/bootloader"
+		},
+		{
+			"file" : "/home/xanny/esp/esp-idf/GPIO_Example/build/CMakeFiles/bootloader.rule"
+		},
+		{
+			"file" : "/home/xanny/esp/esp-idf/GPIO_Example/build/CMakeFiles/bootloader-complete.rule"
+		},
+		{
+			"file" : "/home/xanny/esp/esp-idf/GPIO_Example/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule"
+		},
+		{
+			"file" : "/home/xanny/esp/esp-idf/GPIO_Example/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule"
+		},
+		{
+			"file" : "/home/xanny/esp/esp-idf/GPIO_Example/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule"
+		},
+		{
+			"file" : "/home/xanny/esp/esp-idf/GPIO_Example/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule"
+		},
+		{
+			"file" : "/home/xanny/esp/esp-idf/GPIO_Example/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule"
+		},
+		{
+			"file" : "/home/xanny/esp/esp-idf/GPIO_Example/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule"
+		},
+		{
+			"file" : "/home/xanny/esp/esp-idf/GPIO_Example/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"bootloader"
+		],
+		"name" : "bootloader"
+	}
+}
